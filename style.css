@@ -101,11 +101,23 @@ hr{
 
 
 
-.image img{
+.card{
     width: 300px ;
     border-radius: 10px;
 }
 
+.eye{
+    position: absolute;
+    width: 40px;
+    top: 256px;
+    right: 940px ;
+    opacity: 0.6;
+}
+
+.eye:hover{
+    opacity: 1;
+    cursor: pointer;
+}
 
 .creation{
     font-weight: 300px;
@@ -143,11 +155,19 @@ hr{
         width: 250px;
     }
 
-    .image img{
+    .card{
         width: 250px;
     }
 
     #Eth{
         margin-right: 70px;
+    }
+
+    .eye{
+        position: absolute;
+        width: 40px;
+        top: 256px;
+        right: 190px ;
+        opacity: 0.6;
     }
 }
