@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -5,7 +9,6 @@
     
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 
 body{
     font-family: 'Outfit',sans-serif;
@@ -24,7 +27,8 @@ ul{
 }
 
 p{
-    font-size: 14px;
+    font-size: 16px;
+    font-weight: 300;
 }
 
 hr{
