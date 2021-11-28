@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](.Screenshot/web.png)
-![](.Screenshot/IMG_0101.PNG)
+![](./Screenshot/web.png)
+![](./Screenshot/IMG_0101.PNG)
 
 
 
